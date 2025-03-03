@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import BookModel from '../../../models/BookModel'
 import { SpinnerLoading } from '../../Utils/SpinnerLoading'
 import { ReturnBook } from './ReturnBook'
@@ -121,7 +122,7 @@ export const Carousel = () => {
               </div>
           </div>
           <div className='homepage-carousel-title mt-3'>
-              <p className='btn btn-outline-secondary btn-lg'>View More</p>
+              <Link className='btn btn-outline-secondary btn-lg' to='/search'>View More</Link>
           </div>
       </div>
 
