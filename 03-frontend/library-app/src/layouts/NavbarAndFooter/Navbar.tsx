@@ -4,7 +4,7 @@ export const Navbar = () => {
   return (
     <nav className='navbar navbar-expand-lg navbar-dark main-color py-3'>
       <div className='container-fluid'>
-        <span className='navbar-brand'> NAT Read</span>
+        <span className='navbar-brand'> NAT Library</span>
         <button className='navbar-toggler' type='button' data-bs-toggle='collapse'
           data-bs-target='#navbarNavNavDropdown' aria-controls='navbarNavNavDropdown'
           aria-expanded='false' aria-label='Toggle navigation'
@@ -14,10 +14,10 @@ export const Navbar = () => {
         <div className='collapse navbar-collapse' id='navbarNavDropdown'>
           <ul className='navbar-nav'>
             <li className='nav-item'>
-              <NavLink className='nav-link active' aria-current='page' to='/home'>Home</NavLink>
+              <NavLink className='nav-link active .subnav_add:hover' aria-current='page' to='/home'>Home</NavLink>
             </li>
             <li className='nav-item'>
-              <NavLink className='nav-link' to='/search'>Search Books</NavLink>
+              <NavLink className='nav-link .subnav_add:hover' to='/search'>Search Books</NavLink>
             </li>
           </ul>
           <ul className='navbar-nav ms-auto'>

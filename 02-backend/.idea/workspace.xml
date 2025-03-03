@@ -5,27 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6960b8-8af4-40f6-88a8-36875dd00870" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/spring-boot-library/src/main/java/com/luv2code/springbootlibrary/dao/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-library/spring-boot-library/src/main/java/com/luv2code/springbootlibrary/entity/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-library/spring-boot-library/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-library/spring-boot-library/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-library/spring-boot-library/src/main/java/com/luv2code/springbootlibrary/config/MyDataRestConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-library/spring-boot-library/src/main/java/com/luv2code/springbootlibrary/config/MyDataRestConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/11.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/12.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/13.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/13.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/14.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/14.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/16.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/16.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/3.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/6.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/8.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/9.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/index.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/node_modules/.cache/tsconfig.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/src/layouts/NavbarAndFooter/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/src/layouts/NavbarAndFooter/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/library-app/src/layouts/SearchBooksPage/components/SearchBook.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/library-app/src/layouts/SearchBooksPage/components/SearchBook.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -90,7 +109,7 @@
       <workItem from="1740799747363" duration="40000" />
       <workItem from="1740799998881" duration="2063000" />
       <workItem from="1740817465162" duration="6712000" />
-      <workItem from="1740989881248" duration="1487000" />
+      <workItem from="1740989881248" duration="7081000" />
     </task>
     <servers />
   </component>

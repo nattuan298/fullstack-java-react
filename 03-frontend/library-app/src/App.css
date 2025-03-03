@@ -52,3 +52,7 @@ background-color: #0e76a8 ;
     pointer-events: none;
     cursor: default;
  }
+
+.subnav_add:hover {                  /* MUST OCCUR AFTER VISITED */
+  cursor: pointer;
+}
